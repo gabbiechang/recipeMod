@@ -1,3 +1,5 @@
 {
-	"item.kumquatrecipes.tutorial_item": "Tutorial Item"
+	"item.kumquatrecipes.tutorial_item": "Tutorial Item",
+	
+	"block.kumquatrecipes.tutorial_item": "Tutorial Block"
 }

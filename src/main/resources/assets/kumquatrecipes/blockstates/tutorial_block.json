@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "": { "model": "kumquatrecipes:block/tutorial_block" }
+    }
+}
